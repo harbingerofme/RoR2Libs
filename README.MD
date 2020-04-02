@@ -14,10 +14,10 @@ What's included:
 
 ## Unstripped
 * [BepinexPack 3.2.0](https://thunderstore.io/package/bbepis/BepInExPack/3.2.0/) (as it appears on thunderstore. Corresponds to bepinex 5.0.1)
-* [R2API 2.3.22 (2.3.14 ingame)](https://thunderstore.io/package/tristanmcpherson/R2API/2.3.22/)
-* [MiniRPCLib 0.01*](https://thunderstore.io/package/wildbook/MiniRpcLib/0.0.1) Modified to not interfere with R2API's Commandhelper. 
+* [R2API 2.4.???](https://thunderstore.io/package/tristanmcpherson/R2API/) (using a prerelease.)
+* [MiniRPCLib 0.01*](https://thunderstore.io/package/wildbook/MiniRpcLib/0.0.1) Modified to not interfere with R2API's Commandhelper.
 
-#Additionally
+### Additionally
 * cil-stripper script (by @mistername)
 * `setup.bat` (clones this repo and cleans it up)
 * `setup - noGit (slow).ps1` (clones this repo and cleans it up. Slower than the Batch script, but doesn't require git.)
