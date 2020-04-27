@@ -10,7 +10,10 @@ You may find a non-core pack under the "Additionals" branch.
 
 ### Stripped
 
-* `Risk of Rain 2_Data\Managed` 4892828 (Artifacts, patch 1)
+* `Risk of Rain 2_Data\Managed` - 4892828 - (Artifacts, patch 1)
+* `HjUpdaterAPI` - 1.4.1 -  `A robust and flexible API for checking mod versions and/or updating automatically.`
+* `MiniRpcLib` - 0.0.1 - A networking library for risk of rain 2. Modified to have no public classes in the global namespace. (Use r2API's reflection instead.)
+* `ShareSuite` 2.0.0 - Used for compatibility with ShareSuite
 
 ### Unstripped
 
