@@ -10,13 +10,13 @@ You may find a non-core pack under the "Additionals" branch.
 
 ### Stripped
 
-* `Risk of Rain 2_Data\Managed` 4892828 (Artifacts, patch 1)
+* `Risk of Rain 2_Data\Managed` version 5440050 (Full Release, patch 1)
 
 ### Unstripped
 
-* [BepinexPack 3.2.0](https://thunderstore.io/package/bbepis/BepInExPack/3.2.0/) (as it appears on thunderstore. Corresponds to bepinex 5.0.1)
+* [BepinexPack 5.3.1](https://thunderstore.io/package/bbepis/BepInExPack/)
 
-* [R2API 2.4.21](https://thunderstore.io/package/tristanmcpherson/R2API/)
+* [R2API 2.5.14](https://thunderstore.io/package/tristanmcpherson/R2API/)
 
 ### Additionally
 
